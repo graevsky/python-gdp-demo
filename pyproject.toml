@@ -29,6 +29,3 @@ branch = true
 show_missing = true
 skip_empty = true
 fail_under = 80
-
-[tool.setuptools]
-package-dir = {"" = "src"}
